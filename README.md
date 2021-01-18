@@ -4,7 +4,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyondbirthday737&layout=compact&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=beyondbirthday737&shide=html&layout=compact&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
