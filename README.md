@@ -1,6 +1,5 @@
 <h2 align="center">
   <em>Gustavo Reis</em>
-  <h3 align="center">:brazil:<h3>
 </h2>
 
 <p align="center">
