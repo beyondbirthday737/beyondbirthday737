@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">
+  <em>Gustavo Reis</em>
+  <h3 align="center">:brazil:<h3>
+</h2>
 
-<!--
-**beyondbirthday737/beyondbirthday737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
+  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical" />
+</p>
