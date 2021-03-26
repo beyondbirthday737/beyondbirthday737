@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyondbirthday737&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavors22&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
