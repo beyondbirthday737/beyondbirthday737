@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo Reis</h1>
 <h3 align="center">I am a student of computer engineering and a lover of development back-end and cyber-security</h3>
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavors22&layout=compact&theme=radical"/>
 </p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavors22&label=Profile%20views&color=0e75b6&style=flat" alt="gustavors22" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavors22&show_icons=true&locale=en" alt="gustavors22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavors22&" alt="gustavors22" /></p>
 
