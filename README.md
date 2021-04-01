@@ -4,10 +4,8 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavors22&layout=compact&theme=radical"/>
 </p
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavors22&show_icons=true&locale=en&layout=compact&theme=radical" alt="gustavors22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavors22&" alt="gustavors22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavors22&theme=radical" alt="gustavors22" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
